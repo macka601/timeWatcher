@@ -1,0 +1,14 @@
+[Desktop Entry]
+Version=1.0
+Encoding=UTF-8
+Name=TimeWatcher Admin Gui
+Name[en_GB]=TimeWatcher Admin Gui
+GenericName=Control user login times and restrict time periods
+Comment=Control user login times and restrict time periods
+Exec=gksu /usr/bin/timeWatcher
+Icon=padlock.png
+Terminal=false
+Type=Application
+Categories=System;Settings;GTK;
+StartupNotify=true
+

@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=timeWatcher
+Comment=timeWatcher
+Icon=
+Exec=/usr/bin/timeWatcher
+Terminal=false
+Type=Application
+Categories=
+OnlyShowIn=GNOME;XFCE;KDE;
+X-GNOME-Autostart-enabled=true

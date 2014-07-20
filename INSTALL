@@ -1,0 +1,10 @@
+TimeWatcher Installation instructions
+
+Place files into temporary directory
+
+Run
+- make clean
+- make install
+
+program should load itself into the right directories
+
