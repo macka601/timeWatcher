@@ -23,6 +23,9 @@ shortcutfiles.path = /usr/share/applications/
 python.path = /usr/bin/
 python.files += timeDaemon.py
 
+directory.path = /etc/
+directory.commands = mkdir /etc/timeWatcher
+
 SOURCES += main.cpp\
         mainwindow.cpp
 
@@ -34,3 +37,4 @@ INSTALLS += target
 INSTALLS += shortcutfiles
 INSTALLS += python
 INSTALLS += autostart
+INSTALLS += directory
